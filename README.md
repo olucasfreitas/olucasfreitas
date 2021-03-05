@@ -1,9 +1,8 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
+<img width="auto" src="https://gestaoquatropontozero.com/wp-content/uploads/2020/04/technology-banner-background-with-hexagonal-shapes-text-space_1017-22589.jpg">
 
 # Lucas da Silva Freitas
 
-## Olá pessoal 👋
+## Olá pessoal :smiley:
 Sou graduando no curso em Ciência da Computação cursando o 5° semestre, pelo Centro Universitário do Estado do Pará.
 
 Me sinto bem à vontade com desenvolvimento front-end utilizando tecnologias como ReactJS, HTML e CSS, e com o desenvolvimento de interfaces focadas em UI/UX utilizando ferramentas de prototipação como Figma e AdobeXD. Em outros projetos procuro me envolver mais com o desenvolvimento back-end afim de me tornar um desenvolvedor fullstack no futuro.
