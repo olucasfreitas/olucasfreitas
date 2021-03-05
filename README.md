@@ -1,7 +1,5 @@
 # Lucas da Silva Freitas 
 
-<img align="right" alt="HTML5" width="312px" height"312px" src="19199262.jpg" />
-
 ## Olá pessoal :smiley:
 Sou graduando no curso em Ciência da Computação cursando o 5° semestre, pelo Centro Universitário do Estado do Pará.
 
