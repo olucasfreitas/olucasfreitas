@@ -1,4 +1,4 @@
-# Lucas da Silva Freitas <img align="right" alt="HTML5" width="26px" src="https://image.freepik.com/vetores-gratis/ilustracao-de-desenvolvimento-de-software_73903-337.jpg" />
+# Lucas da Silva Freitas <img align="right" alt="HTML5" width="100px" height ="100px" src="https://image.freepik.com/vetores-gratis/ilustracao-de-desenvolvimento-de-software_73903-337.jpg" />
 
 
 ## Olá pessoal :smiley:
