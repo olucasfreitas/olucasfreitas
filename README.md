@@ -21,8 +21,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <img align="left" alt="Flask" width="26px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"/>
 <br />
 <br />
-<br />
-<br />
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=olucasfreitas)](https://github.com/olucasfreitas/github-readme-stats)
 <br />
 <br />
