@@ -1,5 +1,5 @@
-# Lucas da Silva Freitas <img align="right" alt="HTML5" width="100px" height ="100px" src="https://image.freepik.com/vetores-gratis/ilustracao-de-desenvolvimento-de-software_73903-337.jpg" />
-
+<img align="right" alt="HTML5" src="https://image.freepik.com/vetores-gratis/local-de-trabalho-do-programador-ou-codificador_169241-1190.jpg" />
+# Lucas da Silva Freitas
 
 ## Olá pessoal :smiley:
 Sou graduando no curso em Ciência da Computação cursando o 5° semestre, pelo Centro Universitário do Estado do Pará.
