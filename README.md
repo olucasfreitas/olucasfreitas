@@ -28,7 +28,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png"/> 
-<img align="left" alt="VSCode" width="26px" src="https://https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/> 
+<img align="left" alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/> 
 <br />
 <br />
 
