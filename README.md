@@ -1,4 +1,5 @@
-<img align="right" alt="HTML5" src="https://image.freepik.com/vetores-gratis/local-de-trabalho-do-programador-ou-codificador_169241-1190.jpg" />
+<img align="center" alt="HTML5" src="https://image.freepik.com/vetores-gratis/local-de-trabalho-do-programador-ou-codificador_169241-1190.jpg" />
+
 # Lucas da Silva Freitas
 
 ## Olá pessoal :smiley:
