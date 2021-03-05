@@ -6,6 +6,8 @@ Sou graduando no curso em Ciência da Computação cursando o 5° semestre, pelo
 Me sinto bem à vontade com desenvolvimento front-end utilizando tecnologias como ReactJS, HTML e CSS, e com o desenvolvimento de interfaces focadas em UI/UX utilizando ferramentas de prototipação como Figma e AdobeXD. Em outros projetos procuro me envolver mais com o desenvolvimento back-end afim de me tornar um desenvolvedor fullstack no futuro.
 
 Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e demandas do grupos que participo sempre tentando aplicar as melhores metodologias e tecnologias em tudo o que faço.
+<br />
+<br />
 
 ### Languages and Tools:
 
