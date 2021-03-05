@@ -1,5 +1,3 @@
-<img width="auto" src="https://gestaoquatropontozero.com/wp-content/uploads/2020/04/technology-banner-background-with-hexagonal-shapes-text-space_1017-22589.jpg">
-
 # Lucas da Silva Freitas
 
 ## Olá pessoal :smiley:
