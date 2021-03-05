@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**olucasfreitas/olucasfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Lucas da Silva Freitas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou graduando no curso em Ciência da Computação cursando o 5° semestre, pelo Centro Universitário do Estado do Pará.
+
+Me sinto bem à vontade com desenvolvimento front-end utilizando tecnologias como ReactJS, HTML e CSS, e com o desenvolvimento de interfaces focadas em UI/UX utilizando ferramentas de prototipação como Figma e AdobeXD. Em outros projetos procuro me envolver mais com o desenvolvimento back-end afim de me tornar um desenvolvedor fullstack no futuro.
+
+Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e demandas do grupos que participo sempre tentando aplicar as melhores metodologias e tecnologias em tudo o que faço.
+
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lucas-freitas090/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
