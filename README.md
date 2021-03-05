@@ -32,10 +32,8 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <br />
 <br />
 
-
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=olucasfreitas)](https://github.com/olucasfreitas/github-readme-stats)
-
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lucas-freitas090/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=olucasfreitas)](https://github.com/olucasfreitas/github-readme-stats)
