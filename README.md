@@ -9,7 +9,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <br />
 <br />
 
-### Linguagens e Frameworks/Bibliotecas que uso/já usei:
+### Linguagens e Frameworks/Bibliotecas:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -23,7 +23,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <br />
 <br />
 
-### Ferramentas que uso/já usei:
+### Ferramentas:
 
 <img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
