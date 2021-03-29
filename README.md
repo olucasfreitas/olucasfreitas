@@ -34,4 +34,4 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 |
 [![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="maykbrito"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="maykbrito"/> 
