@@ -23,7 +23,9 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png"/>
 <br />
 <br />
+</p>
 
+<p align="center">
 ### Ferramentas:
 <img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
@@ -31,8 +33,11 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <img align="left" alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/> 
 <br />
 <br />
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lucas-freitas090/) 
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lucas-freitas090/) 
 |
 [![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="maykbrito"/> 
 </p>
