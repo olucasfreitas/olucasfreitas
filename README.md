@@ -26,7 +26,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 ### Ferramentas:
 <img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png"/> 
+<img align="left" alt="PyCharm" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/pycharm.svg"/> 
 <img align="left" alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/> 
 <br />
 <br />
@@ -34,4 +34,4 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 |
 [![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="maykbrito"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="lucasfreitas"/> 
