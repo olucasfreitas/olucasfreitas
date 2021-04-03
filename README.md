@@ -36,5 +36,6 @@ Linkedin: https://www.linkedin.com/in/lucas-freitas090/
 <br />
 <br />
 Email: lucasdasilvafreitas090@gmail.com
-
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="lucasfreitas"/> 
