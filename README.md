@@ -31,7 +31,6 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <br />
 <br />
 <br />
-<br />
 Linkedin: https://www.linkedin.com/in/lucas-freitas090/
 <br />
 <br />
