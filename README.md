@@ -30,7 +30,11 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <img align="left" alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/> 
 <br />
 <br />
+<br />
+<br />
 Linkedin: https://www.linkedin.com/in/lucas-freitas090/
+<br />
+<br />
 Email: lucasdasilvafreitas090@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="lucasfreitas"/> 
