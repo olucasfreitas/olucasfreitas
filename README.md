@@ -31,8 +31,5 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <br />
 <br />
 <br />
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Freitas-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-freitas090/)](https://www.linkedin.com/in/lucas-freitas090/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
-<br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true" alt="lucasfreitas"/> 
