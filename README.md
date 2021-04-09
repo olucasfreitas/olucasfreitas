@@ -28,8 +28,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/pycharm.svg"/> 
 <img align="left" alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/> 
-<br />
-<br />
+
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lucas-freitas090/) 
 |
 [![Gmail Badge](https://img.shields.io/badge/-lucasdasilvafreitas090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdasilvafreitas090@gmail.com)](mailto:lucasdasilvafreitas090@gmail.com)
