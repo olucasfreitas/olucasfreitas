@@ -1,15 +1,12 @@
-# Lucas da Silva Freitas 
+## Olá, seja bem vindo/a :smiley:
 
-## Olá pessoal :smiley:
-Sou graduando no curso em Ciência da Computação cursando o 5° semestre, pelo Centro Universitário do Estado do Pará.
-
-Me sinto bem à vontade com desenvolvimento front-end utilizando tecnologias como ReactJS, HTML e CSS, e com o desenvolvimento de interfaces focadas em UI/UX utilizando ferramentas de prototipação como Figma e AdobeXD. Em outros projetos procuro me envolver mais com o desenvolvimento back-end afim de me tornar um desenvolvedor fullstack no futuro.
+Meu nome é Lucas, tenho 19 anos e atualmente estou cursando Ciência da Computação no Centro Universitário do Pará(CESUPA). Me sinto bem à vontade com desenvolvimento front-end utilizando tecnologias como ReactJS, HTML e CSS, e com o desenvolvimento de interfaces focadas em UI/UX utilizando ferramentas de prototipação como Figma e AdobeXD. Em outros projetos procuro me envolver mais com o desenvolvimento back-end afim de me tornar um desenvolvedor fullstack no futuro.
 
 Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e demandas do grupos que participo sempre tentando aplicar as melhores metodologias e tecnologias em tudo o que faço.
 <br />
 <br />
 
-### Linguagens e Frameworks/Bibliotecas:
+### Linguagens e Frameworks/Bibliotecas que já trabalhei:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -23,7 +20,7 @@ Busco aperfeiçoar meus conhecimento através de pequenos projetos pessoais e de
 <br />
 <br />
 
-### Ferramentas:
+### Ferramentas que já usei:
 <img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/pycharm.svg"/> 
