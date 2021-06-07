@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lucasdasilvafreitas090@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEgtuKCsWU/_WUvqwtalBtakAOnlIxirg/view?utm_content=DAEgtuKCsWU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEgtuKCsWU/_WUvqwtalBtakAOnlIxirg/view?utm_content=DAEgtuKCsWU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences https://bit.ly/3z8furo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
