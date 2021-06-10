@@ -1,8 +1,6 @@
 # Olá 👋
 
-## Sou um desenvolvedor full-stack no Brazil
-
-##### BIO
+### Sou um desenvolvedor full-stack no Brazil
 
 - 🏢 Atualmente trabalho na Enacom
 - ⚙️ Estou estudando ReactJS, NodeJS e Angular
