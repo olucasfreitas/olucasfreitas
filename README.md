@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+### Olá 👋
 
-- 🌱 I’m currently learning **ReactJS, NodeJS and Angular**
+#### Sou um desenvolvedor full-stack de Ananindeu, Brazil
 
-- 👨‍💻 All of my projects are available at [https://github.com/olucasfreitas](https://github.com/olucasfreitas)
+##### BIO
 
-- 📫 How to reach me **lucasdasilvafreitas090@gmail.com**
-
-- 📄 Know about my experiences https://bit.ly/3z8furo
+- 🏢 I'm currently working at **Medicare Portugal**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 <div align="center">
   <h3 align="center">Connect with me:</h3>
@@ -21,11 +25,12 @@
 
 
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasfreitas&show_icons=true&locale=en&layout=compact" alt="olucasfreitas" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olucasfreitas&show_icons=true&locale=en" alt="olucasfreitas" /></p>
+## &#x1f4c8; GitHub Stats
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olucasfreitas&" alt="olucasfreitas" /></p>
-</div>
-
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
