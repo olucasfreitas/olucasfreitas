@@ -1,6 +1,6 @@
 # Olá 👋
 
-### Sou um desenvolvedor full-stack no Brazil
+### Sou um desenvolvedor front-end no Brazil
 
 - 🏢 Atualmente trabalho na Concert Technologies
 - ⚙️ Estou estudando ReactJS, NodeJS e Angular
