@@ -1,6 +1,6 @@
-# Olá 👋
+# Hi 👋
 
-### Sou um desenvolvedor front-end no Brazil
+### I'm a front-end developer in Brazil
 
 - 🏢 I currently work at Red Hat
 - ⚙️ I'm currently studying and working on ReactJ, NextJS and GraphQL
